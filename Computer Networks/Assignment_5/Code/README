@@ -1,0 +1,30 @@
+To run this program you have to first compile the server and client files and then run it
+
+Here I have made two different folders for server and client for ease of understanding
+
+We have two additional files "clientFile.txt" and "serverFile.txt"
+
+clientFile.txt ---> used to transfer from client to server using "put" command
+serverFile.txt ---> used to transfer from server to client using "get" command
+
+
+---------------- Everything starts from here ----------------
+
+    Commands for server file (ftpS.c)
+        
+        gcc ftpS.c -o server                  (compilation)
+        ./server                              (execution)
+        
+
+    Commands for client file (ftpC.c)
+    
+        gcc ftpC.c -o client                  (compilation)
+        ./client                              (execution)
+
+
+
+    giving input :
+    
+    
+                
+    
