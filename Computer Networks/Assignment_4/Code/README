@@ -1,0 +1,35 @@
+
+To run this program you have to first compile the server and client files and then run it
+
+    Commands for server file (server.c)
+        
+        gcc server.c -o server                  (compilation)
+        ./server                                (execution)
+        
+
+
+    Commands for UDP client (udp_client.c)
+    
+        gcc udp_client.c -o udp_client          (compilation)
+        ./udp_client                            (execution)
+        
+        
+    Commands for TCP client (tcp_client.c)
+    
+        gcc tcp_client.c -o tcp_client          (compilation)
+        ./tcp_client                            (execution)
+        
+        
+        
+     Both the clients will ask for input you have to give a string, server will respond whether the given string 
+     is palindrome or not
+     
+     e.g. - i)  input given to client : 12345
+                server response : Not a palindrome
+            
+            ii) input given to client : 12321
+                server response : Palindrome
+                
+                
+                
+                
