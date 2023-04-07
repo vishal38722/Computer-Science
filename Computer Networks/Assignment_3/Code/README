@@ -1,0 +1,22 @@
+To run this program you have to first compile the server and client files and then run it
+
+    Commands for server file (UDPserver.c)
+        
+        gcc UDPserver.c -o server         (compilation)
+        ./server                            (execution)
+        
+
+
+    Commands for client file (UDPclient.c)
+    
+        gcc UDPclient.c -o client              (compilation)
+        ./client                            (execution)
+        
+        
+        
+    client will ask for input. You have to provide an absolute path to any directory and server will provide you
+    all the files and folders present in the provided directory
+
+    For absolute path you can right click in any directory and go to properties
+
+    e.g. - /home/vishal//Desktop
