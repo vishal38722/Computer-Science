@@ -1,1 +1,17 @@
+As this server is a concurrent server so you can send requests from multiple clients at the same time
 
+To run this program you have to first compile the server and client files and then run it
+
+    Commands for server file (server_it.c)
+        
+        gcc server_conc.c -o server           (compilation)
+        ./server                            (execution)
+        
+
+
+    Commands for client file (client.c)
+    
+        gcc client.c -o client              (compilation)
+        ./client                            (execution)
+        
+       
