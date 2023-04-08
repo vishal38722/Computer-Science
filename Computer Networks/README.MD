@@ -2,10 +2,10 @@
                                 
                                
                                
-                               Network Lab Assignment || NIT Durgapur || 2022-2023
+                          #     Network Lab Assignment || NIT Durgapur || 2022-2023
 
 
-  Assignment 1 : TCP Server (Iterative) : Write a simple TCP iterative server and client to evaluate arithmetic expressions.
+  ** Assignment 1 ** : TCP Server (Iterative) : Write a simple TCP iterative server and client to evaluate arithmetic expressions.
 
   Assignment 2 : TCP Server (Concurrent) : Write a simple TCP Concurrent server and client to evaluate arithmetic expressions.
 
