@@ -1,4 +1,4 @@
-# To run this program you have to first compile both the server and client files and then run it
+ To run this program you have to first compile both the server and client files and then run it
 
     Commands for server file (server_it.c)
         
